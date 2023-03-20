@@ -1,2 +1,0 @@
-# giraffle
-Giraffe Design System

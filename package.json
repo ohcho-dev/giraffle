@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/joyous-stomach-z41k8.blank-lfge1rm2",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve wWVcsMjlyTPactcMoCgh --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
